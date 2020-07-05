@@ -1,0 +1,11 @@
+h1 {
+font-size: 175%;
+}
+.page-header {
+margin-top: 1em;
+}
+
+th {
+font-weight: 400;
+background: #eaeaea;
+}
